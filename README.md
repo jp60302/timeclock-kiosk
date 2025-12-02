@@ -1,4 +1,4 @@
-# timeclock-kiosk
+# firefox-kiosk
 
 This repository contains a simple PowerShell script that launches Mozilla Firefox in kiosk mode to a specified URL and automatically restarts it if the browser is closed. It is designed for kiosk-style terminals, time clocks, or single-purpose workstations.
 
